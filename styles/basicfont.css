@@ -1,0 +1,13 @@
+.center {
+    text-align:center;
+}
+a:link, a:visited {
+    background-color:rgb(255,0,0);
+    padding: 15px 25px;
+    color:white;
+    text-decoration:none;
+    text-align:center;
+}
+a:hover, a:active {
+    background-color:rgb(172.5,0,10);
+}
